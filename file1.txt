@@ -1,2 +1,3 @@
 sth added
 another srctree.
+try merge.
